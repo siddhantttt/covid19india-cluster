@@ -9,7 +9,7 @@ import {
   addStates,
   removeStates,
   addCities,
-  removeCities,
+  removeCities
   addTravel,
   removeTravel,
 } from '../../util/filters'
